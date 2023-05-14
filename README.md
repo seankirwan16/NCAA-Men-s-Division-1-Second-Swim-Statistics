@@ -9,6 +9,6 @@ I performed various analyses on the swimming data as you will see in the project
 
 This is a passion project.
 
-This is my first time doing my own personal coding project (i.e., not school or work related) as well as my first time using Python (and thus also PANDAS/NUMPY/MATPLOTLIB.PYLOT/MATH/SEABORN). I want to get better at Python, and I love competitive swimming, so I figured what better project?
+This is my first time doing my own personal coding project (i.e., not school or work related) as well as my first time using Python (and thus also PANDAS/NUMPY/MATPLOTLIB.PYLOT/MATH/SEABORN/JUPYTER). I want to get better at Python, and I love competitive swimming, so I figured what better project?
 
 Fun first Python project. I think my next project will involved something with lots of data (perhaps still swimming, I would just need to learn how to Webscrape.)
