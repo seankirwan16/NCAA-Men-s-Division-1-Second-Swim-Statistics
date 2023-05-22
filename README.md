@@ -1,7 +1,8 @@
 # NCAA-Men-s-Division-1-Second-Swim-Statistics
 File Definitions:
-Swim Data.csv
-Swim Regressions.ipynb
+Second Swim Data.csv - The times it took to advance out of prelims (i.e., achieve a "second swim") at historical Men's NCAA Swimming and Diving Championships.
+Second Swim Data.txt - The times it took to advance out of prelims (i.e., achieve a "second swim") at historical Men's NCAA Swimming and Diving Championships.
+Swim Regressions.ipynb - The code for all the analysis I performed on the data in Second Swim Data.csv
 
 Various analyses on the times it has taken to get a second swim (i.e., top-16) at Men's NCAA Division 1 Swimming and Diving Championships.
 
